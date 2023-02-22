@@ -155,6 +155,7 @@
 </table>
 
 
+## GiHub 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarangiwijemanna" alt="sarangiwijemanna" /></a> </p>
 
@@ -167,11 +168,9 @@
             <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarangiwijemanna&show_icons=true&locale=en" alt="sarangiwijemanna" /></p>
         </td>
     </tr>
- 
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangiwijemanna&" alt="sarangiwijemanna" /></p>
+
 </table>
-
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangiwijemanna&" alt="sarangiwijemanna" /></p>
-
 
 <div align="justify">
 
