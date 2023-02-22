@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
+<img src="https://raw.githubusercontent.com/sarangiWijemanna/sarangiWijemanna/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
 
 <div align="justify">
 
 [![Instagram](https://img.shields.io/badge/sarangi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/625_banu/)&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/rzashakeri-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://lk.linkedin.com/in/sarangi-wijemanna-67a67a18b)&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/sarangiWijemanna-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://lk.linkedin.com/in/sarangi-wijemanna-67a67a18b)&nbsp;&nbsp;
 
  
 </div>  
